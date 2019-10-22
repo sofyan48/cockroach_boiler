@@ -52,7 +52,7 @@ pytest-cov==2.5.1
 pytest-flask==0.10.0
 python-dateutil==2.7.2
 python-dotenv==0.8.2
-python-engineio==2.2.0
+python-engineio==3.8.2.post1
 python-memcached==1.59
 python-socketio==2.0.0
 pytz==2018.3
